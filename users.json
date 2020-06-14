@@ -1,0 +1,20 @@
+[
+  {
+    "email": "test@test.com"
+  },
+  {
+    "email": "puma@dogs.com",
+    "password": "puma",
+    "id": "12a8f7bb"
+  },
+  {
+    "email": "test5@test.com",
+    "password": "d526579ab8f66774e2568794b3f2ec1297682c75a714e3966a2254b88ac1c8eaf939089cb6eb1e4c3705dac3aae365438eca2cde1994734ca14e353d503ea057.a07310493d60e55b",
+    "id": "81e4c3f0"
+  },
+  {
+    "email": "test6@test.com",
+    "password": "548992d3066242405396737779d4a263da1f11dd9ccc5dbd49c805285c75b06a3b42f5f77ece92a9fd11e82915fe3cdf2748eeca3349e26cb398b5bb057147a3.d0de170ee1657dc8",
+    "id": "c43af73e"
+  }
+]
